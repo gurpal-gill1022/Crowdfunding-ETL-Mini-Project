@@ -8,7 +8,7 @@ This group assignment is demonstrating our practice in extracting, transforming 
 
 -----------------------------------------------------------------------
 
-# Requirements
+## Requirements
 
 We were given 2 files of raw data in excel sheets and were required to make 4 databases out of it.
 
@@ -25,8 +25,21 @@ We imported the data from Excel into these tables. After testing each table usin
 
 Lastly, we created an Entity Relationship Diagram using QuickDBD. This diagram shows the layout of each table and the relationship between tables via primary and foreign keys.
 
-# Files:
+## Files:
 1. Jupyter Notebook Source Files - this folder contains the scripts to extract, transform and load the data.
 2. Resources - this folder contains the raw data files, along with the 4 cleaned data excel files.
 3. Rubric and Slides - these files show the requirements of the project.
 4. Schemas and Entity Relationship Diagram - this folder contains the schemas that were used to create and test the tables, along with the ERD diagram that shows a layout of the tables.
+
+## Dependencies
+1. pandas
+2. numpy
+3. datetime
+4. json
+
+## Programs/Languages
+1. Python
+2. Jupyter Notebook
+3. SQL
+4. pgAdmin 4   
+5. Quick DBD
